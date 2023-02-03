@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666251430 source:h:\eugene_bondarev_lb\bondarev_lb9\main.cpp
+	<iostream>
+	<math.h>
+
